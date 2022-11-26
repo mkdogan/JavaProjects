@@ -9,6 +9,7 @@ import java.util.Scanner;
 /**
  * @author Muhammed Kasım Doğan 
  * Öğrenci numarası: 2221221018
+ * Sadece charAt() length() ve equals()
  */
 public class Proje1 {
 
