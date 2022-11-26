@@ -9,7 +9,7 @@ import java.util.Scanner;
 /**
  * @author Muhammed Kasım Doğan 
  * Öğrenci numarası: 2221221018
- * Kural : Sadece charAt() length() ve equals() kullanılabilir.
+ * Kural : Sadece charAt() length() ve equals() hazır fonksiyonları kullanılabilir, diziler kullanılamaz.
  */
 public class Proje1 {
 
